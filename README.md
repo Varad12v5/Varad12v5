@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm Varad Sachin Brahmapurkar</h1>
 <h3 align="center">A passionate Data Engineer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/fryY00CO4xCz4uJuDQ/giphy.webp?cid=790b7611aebd787d34b76c266d507dcaefb914e895b4eda4&ep=v1_user_favorites&rid=giphy.webp&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varad12v5&label=Profile%20views&color=0e75b6&style=flat" alt="varad12v5" /> </p>
 
