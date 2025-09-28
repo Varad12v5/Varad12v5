@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **vbrahmapurkar@gmail.com**
 
-- [📄 View My Resume](https://drive.google.com/file/d/1ZvvkcZ32I0g_0tDB9Zd4RuMY_W1faAQT/view?usp=drive_link)
+- [📄 View My Resume](https://drive.google.com/file/d/1X2qu6bcQK2g4uwdxHnM3NQDEXKaweuon/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
